@@ -1,2 +1,3 @@
 # BlockCerts
-BlockChain certificate uploading and retrieving . 
+
+Dapp for document uploading and retrieving via BlockChain .
